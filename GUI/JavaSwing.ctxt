@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JavaSwing
+comment1.params=
+comment1.target=JavaSwing()
+comment2.params=ajtf\ bjtf
+comment2.target=boolean\ integerCheck(java.lang.String,\ java.lang.String)
+comment3.params=b
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4
